@@ -1,0 +1,19 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Keil build outputs
+Objects/
+Listings/
+
+# Keil user settings
+*.uvoptx
+*.uvguix.*
+
+# Temporary files
+*.tmp
+*.bak

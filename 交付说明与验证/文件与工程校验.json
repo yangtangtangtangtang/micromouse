@@ -1,0 +1,25 @@
+{
+  "source_originals_unchanged": true,
+  "original_file_count": 211,
+  "hardware_integrity": "ok",
+  "hardware_sha256": "327c8fd5b3f4e70cacfab280c5a8c659e235c004f9c93e8d69aef11acb435eb1",
+  "active_boards": [
+    {
+      "sch": "6ed1eba129874606b13a66bb3bf573cf",
+      "name": "Board1",
+      "pcb": "8fd05b5d438f46d986c381d3f2b89ee6"
+    },
+    {
+      "sch": "ce642aed321c4bfa960f62d50eed95ac",
+      "name": "Board2",
+      "pcb": "cb5be60e3fda4eceb6c4b1f71bec73f0"
+    },
+    {
+      "sch": "3e719a4560224e16bf0f1f23ffb77695",
+      "name": "最小系统板",
+      "pcb": "9ad5ca5b1a554f9f8de579780d956a4e"
+    }
+  ],
+  "project_missing_files": [],
+  "source_review": "all local top-level files matched upstream Git blob hashes; firmware ZIP matched extracted local files"
+}

@@ -1,0 +1,670 @@
+{
+  "excludes": [
+    ".venv",
+    "运行数据",
+    "__pycache__",
+    "交付文件校验.json"
+  ],
+  "files": [
+    {
+      "path": "00_先看这里.md",
+      "bytes": 5716,
+      "sha256": "0254e2d2b031b6bcd03b7f06458623d2cde3ad260085c1cfa5df58927d641e10"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Core/Inc/adc.h",
+      "bytes": 1345,
+      "sha256": "66905dff3dfd7ffe143329d4be86c1bbd2398b27937a46f42093bfd10620c454"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Core/Inc/gpio.h",
+      "bytes": 1313,
+      "sha256": "92b391aae985f5b7b6fcbfc37daf922842a683a44045b4d55712007e860ec0ef"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Core/Inc/main.h",
+      "bytes": 3597,
+      "sha256": "4922974ffac55aeb97a6ea82128bbe443f87c549e78472f3055be2b09494f26b"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Core/Inc/stm32f1xx_hal_conf.h",
+      "bytes": 15713,
+      "sha256": "668fba258b0dcb35a40dbd63981d7a32f73b5804bdc452e2b636de4f65eb4d82"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Core/Inc/stm32f1xx_it.h",
+      "bytes": 1986,
+      "sha256": "257a398fd3826cb008ad916ccf8e6d69ada3596d3884eca5e2d977163b14dea1"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Core/Inc/tim.h",
+      "bytes": 1643,
+      "sha256": "e0695846b6f288465927d5f579e08fa5ced643eb1ab42429b830fba187309b40"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Core/Inc/usart.h",
+      "bytes": 1434,
+      "sha256": "e3b9e62f0db1c61f035d36e4db33b2c38394a84f83c378e549ca0033df55409a"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Core/Src/adc.c",
+      "bytes": 3054,
+      "sha256": "239131acfe90ed12da7e0cbc13bf99240852968a2cc73ed27585a6d4122c824e"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Core/Src/gpio.c",
+      "bytes": 4546,
+      "sha256": "d9f122ee3b621e7a9cb14af95010a0b859da929226ba56e14b8a69c4ced975e0"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Core/Src/main.c",
+      "bytes": 47756,
+      "sha256": "3092409c09d261bdcd15ee05cf553f3b5574553d1f4575901f114ca9770124b5"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Core/Src/stm32f1xx_hal_msp.c",
+      "bytes": 2319,
+      "sha256": "aac143b8728871def11216de716a3f6179451cf0fa718b333c074199c15f0a91"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Core/Src/stm32f1xx_it.c",
+      "bytes": 6053,
+      "sha256": "196a974f05abd09164d2c608742117594f4f0e89b4c99b1c97c1a4ab9731e3e4"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Core/Src/system_stm32f1xx.c",
+      "bytes": 14575,
+      "sha256": "6f13b57054f33b4dcb8f3f23fa05b2942d9dca8abd9a2a08ecde6f99693505a5"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Core/Src/tim.c",
+      "bytes": 14139,
+      "sha256": "0d76fe33144fe7d80cd2db6872f05b05f4446bb9c3b8cc9386f59bced04381cd"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Core/Src/usart.c",
+      "bytes": 5288,
+      "sha256": "803c7c936c704071ce35edbad70060d2424d878b93d55c0e58e2c65a2b4c6032"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xe.h",
+      "bytes": 962263,
+      "sha256": "2104082df11b7e172ecf85461a72689b849e05b222a573e3cae0b2ab279800c3"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h",
+      "bytes": 10110,
+      "sha256": "05e93fa3ddefb2e83d762b9ca4de36e3bba9cd8e9690400fe9f2c11fc0a3cef5"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h",
+      "bytes": 1758,
+      "sha256": "a54dfbb3480c672f532d472a6e84bcf34df6551771d2e9966c5a3503c676b6ab"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/CMSIS/Device/ST/STM32F1xx/LICENSE.txt",
+      "bytes": 369,
+      "sha256": "b616ef9c1ae02a5da902bc4a3efb48a8a3170308b30fc09bfda77ba712f49f95"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/CMSIS/Include/cmsis_armcc.h",
+      "bytes": 28208,
+      "sha256": "57b8d88cd03152f60bf74de0149ec979ae20210d86ab06e837aa69c66f27d615"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/CMSIS/Include/cmsis_armclang.h",
+      "bytes": 56497,
+      "sha256": "da29dbad3cf27f6c86437af6bd0b302e105210742ad7a602bea51b104f1661c9"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/CMSIS/Include/cmsis_compiler.h",
+      "bytes": 9014,
+      "sha256": "cd3cbd1c771a5252827a14c75a12e7ed975f76b9fc1577d53a74ba0e7c1af6c3"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/CMSIS/Include/cmsis_gcc.h",
+      "bytes": 62344,
+      "sha256": "8c16d51f7884a9fc07c5cbe6f2bcd24e5e092ddc519f71d36740c2d2e2ff6a27"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/CMSIS/Include/cmsis_iccarm.h",
+      "bytes": 28414,
+      "sha256": "a600765888c69ee60cd2d01d77356902d4ae5fa98aa7e1d73703663c96b7f87a"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/CMSIS/Include/cmsis_version.h",
+      "bytes": 1716,
+      "sha256": "280b9fc8739aefa878d47e68d7adbd4908a15f98ec193cdba1a4b514133f5c34"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/CMSIS/Include/core_armv8mbl.h",
+      "bytes": 97995,
+      "sha256": "220d90f3f99126e656c31c32f099ff766b32cf487f7dd77388e4c9a78e1898c8"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/CMSIS/Include/core_armv8mml.h",
+      "bytes": 168914,
+      "sha256": "825a8799d71f3fa29690b1597dfc2dfb660b103d44e20b8185f26b4f3b4ffdf0"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/CMSIS/Include/core_cm0.h",
+      "bytes": 42208,
+      "sha256": "1beaa04c859225f75142d055e9c5dacfc9ac1d88c82934177f745b9c5f3f4094"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/CMSIS/Include/core_cm0plus.h",
+      "bytes": 50464,
+      "sha256": "c953256e1c1b1cd6accbbfca5d47c09a9b0534f3147b125e17e59c0ae6c30ed7"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/CMSIS/Include/core_cm1.h",
+      "bytes": 43456,
+      "sha256": "460281028a261740cd5ec86840bed01c480d70ba5b54a0f9938d4cefadfd486b"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/CMSIS/Include/core_cm23.h",
+      "bytes": 104628,
+      "sha256": "6303efec943ca0f9eccdab8fc39200d6f95dc943d4051198e0d49f24395028a5"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/CMSIS/Include/core_cm3.h",
+      "bytes": 111854,
+      "sha256": "368296087a925cf78133d27e0854d748605441915e0f4fece93f2f97eea68adb"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/CMSIS/Include/core_cm33.h",
+      "bytes": 175600,
+      "sha256": "7f1b6a76b119e1e1680f756da897929f63d98133442c5115678af60adf20f1a8"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/CMSIS/Include/core_cm4.h",
+      "bytes": 123607,
+      "sha256": "738dff259c25e68ed2529baf425315d8dae1af5dac6c11b66bfdef82e78e86c9"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/CMSIS/Include/core_cm7.h",
+      "bytes": 148588,
+      "sha256": "6b75e3bef1eb81e0d3e2c311ad26fcdbac4cde2cd3462a62b81a23f6aec0e55f"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/CMSIS/Include/core_sc000.h",
+      "bytes": 47249,
+      "sha256": "d1528d13fbf91da620ef977e99802d83ded093c0521c04cad128da23e3001524"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/CMSIS/Include/core_sc300.h",
+      "bytes": 110523,
+      "sha256": "fa514ea0cf5327b0523c2bdfebfb76fd2e69f972e5f60fbfb94ade56b31c722b"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/CMSIS/Include/mpu_armv7.h",
+      "bytes": 11711,
+      "sha256": "b0b6da4ec744b5f547a94e60e24b0a6ff6bb7307d3f81a83d0b7c3a64dc29326"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/CMSIS/Include/mpu_armv8.h",
+      "bytes": 10958,
+      "sha256": "8280a1d4d3d25f60cdc05b84718cf504f02b7265fc3b7c5790cb29cd7dcf116c"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/CMSIS/Include/tz_context.h",
+      "bytes": 2757,
+      "sha256": "7fcc21fc190f6fd970390e9caaa6a86d72fd10f9edf4efab36f12aecf1a8baa0"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/CMSIS/LICENSE.txt",
+      "bytes": 11558,
+      "sha256": "e03ba41d7fab20700769fe4118bab50d800cb74f990353a05d2f5fff1c228363"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h",
+      "bytes": 237664,
+      "sha256": "583cd8373bde87cbf384a9153b7c8ba9c456139baebb248bffe7116c926e2286"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h",
+      "bytes": 11091,
+      "sha256": "cc3851d46bc92478fe355f8b1fedd013deaa70da5e8e4136ce5cbb2536519803"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h",
+      "bytes": 52554,
+      "sha256": "2d9b47cc8d9700a82289829e6f7aebb882924e424820fb8f3f50fac54c640f06"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex.h",
+      "bytes": 46893,
+      "sha256": "fa07219917a8e7a10c921e90778598e84cd884855dce3bff865354e9c0acdc22"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h",
+      "bytes": 17067,
+      "sha256": "11ef612e231958eb9f3d4f825cda6bed35bd482996ecbf51f34b5ee7d84371f7"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h",
+      "bytes": 7425,
+      "sha256": "377e7fc68715cfb6d09715e9d77bd5cee09e79f00479f502d3191016c3c388dd"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h",
+      "bytes": 17754,
+      "sha256": "22cbcbf02ef1867f0d9bbf28c600c9aeb71a7d221608449ae64cb48339687928"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h",
+      "bytes": 12389,
+      "sha256": "1b09d5229c87587ab894fc3237182a7027b1672a20433b9659433fb978e459f3"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h",
+      "bytes": 11814,
+      "sha256": "745bd5b830259f613d116286a445d18c26677a72170117f2b35b7e0607fd563c"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h",
+      "bytes": 8820,
+      "sha256": "fc9d0c2df0c277cbcb37a5baca8e0b6f112e4c7e879dc753b62aa9095732fff5"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h",
+      "bytes": 36013,
+      "sha256": "6bdda70eea1f54de098cf7033091c1d367e40043e3e0759ec08700718d38ab35"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h",
+      "bytes": 11876,
+      "sha256": "3ae8ac366a2a55952fc4bada166e88f6d15fb884492048191f267f79ffa73d44"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h",
+      "bytes": 36048,
+      "sha256": "769eb507539209ec99906cb586e60c760c96ffcede2754e5c43717404e3f18de"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h",
+      "bytes": 11533,
+      "sha256": "1353dc09e32e7e6ec686b725b80981a9286c7e8b5383f8f4259f672470d481c3"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h",
+      "bytes": 66691,
+      "sha256": "8bf099bedb0c4fa035df81520f99e289464293b27e71d7e8759c8d5160ce8ac1"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h",
+      "bytes": 99301,
+      "sha256": "ed9ac1b6349ed0989367a1daa82819390dcefec0f6cef6fa432e09b2c9ea0adc"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h",
+      "bytes": 122732,
+      "sha256": "7a3dac99a810297b21b785846927dea4b1a43f854b2bd19e0f6b3af767e4eda9"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h",
+      "bytes": 9578,
+      "sha256": "21f24eb4e1b8eaeeb50240dbb0c177619f55cd4b12e366ddf4105c269ff628ac"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h",
+      "bytes": 45654,
+      "sha256": "949edfcd2021d8c73c5eb36d5cc1fb995b6f7a19fc084121b340c7502d33c135"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_adc.h",
+      "bytes": 228411,
+      "sha256": "fe109e162ec888be59a63f8a0e424c53d98f18ea0066ab55cb6851b7005fa9ee"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_bus.h",
+      "bytes": 45017,
+      "sha256": "6680693a685a8ed0d09d9c6901328ac23bb207ecc9d68e9521b66cf09c8f75a8"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_cortex.h",
+      "bytes": 24204,
+      "sha256": "e46032e4e08ce856c204f91f28018dc4ac59f4b8ea24e3bf0f5a609a4ba7bb32"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_dma.h",
+      "bytes": 76231,
+      "sha256": "1a0eba87b8820b996098d1be8d09ab3df996845cf1c1fa5b536cbf6bce8fe16d"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_exti.h",
+      "bytes": 31206,
+      "sha256": "9f816072941e79763cbc048fe03bf803fd81bf0a0ade876d74a49be8620bfde5"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_gpio.h",
+      "bytes": 90429,
+      "sha256": "d2fe5810dc0640bfc6f10be30162425d6b0004444bc40cb5d62257b6f21338fe"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_pwr.h",
+      "bytes": 12582,
+      "sha256": "4e706bc7ad93abf9e67433d7c46abf777e74d9036fa03a16380348c118b8c998"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_rcc.h",
+      "bytes": 83977,
+      "sha256": "8f9653c499ac50a5d874c2606091b1a2fbed71aae7d25e70d9d518337d7922ed"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_system.h",
+      "bytes": 23460,
+      "sha256": "5506acce915aad3a1d0a93f17a07eb2c26c731808dc77c28014eef081c3824bb"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_tim.h",
+      "bytes": 164051,
+      "sha256": "3400329643cad2343f8c357788d5689e8b8db861bd0b1ef953537b45a0e56875"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usart.h",
+      "bytes": 99185,
+      "sha256": "8684e487827c318256ba7ae36841bd2c7fa2438c0cc5c8aa36b555f607873e77"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_utils.h",
+      "bytes": 8610,
+      "sha256": "decb7156d26dc56db7ed76c06c71533ca579905b80824b178749a03a2f224a1b"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/LICENSE.txt",
+      "bytes": 377,
+      "sha256": "d5a162f3eaf2b7b6762f00700017cae5695ebbdce7932fead8316448baafd9c1"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c",
+      "bytes": 20257,
+      "sha256": "607343f969fce8d49111fe4d8d32001c9b289742408d0452ae49761034f39f01"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c",
+      "bytes": 91605,
+      "sha256": "dc65f89fdd6ee2ffb1b1303e5c7077502d5c0ec010681a20411e88673f670aee"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c",
+      "bytes": 51686,
+      "sha256": "131c5c1019f3c313b07a14dd5f68086ee225b4ba218af4b32867854bb67988c1"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c",
+      "bytes": 19261,
+      "sha256": "21ccc3b54e45e62b278e7f32fd34533bb1e0f4105c7f47c9218ffa0801bfbddd"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c",
+      "bytes": 27418,
+      "sha256": "9ec6e91366c9b27c64b93c4d31fb4636dbc830b055ec501dc728c34eff6900da"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c",
+      "bytes": 15048,
+      "sha256": "6f201feccce8c53717098109bd4d2b4a0894ce4334cd1d6cdd8d15d5e69a8eb6"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c",
+      "bytes": 29013,
+      "sha256": "cddd2adcf578c7d63fd27f55a6ef88f50540a3b65927dfc411c192900c127bb1"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c",
+      "bytes": 35761,
+      "sha256": "5e0631a9ce807629cc24d26effb6dba3b0e4eeca10e9d46ae9d5dc40fa1989da"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c",
+      "bytes": 21479,
+      "sha256": "a2e12792c9d49eecdc567ab9fc1a49ed90723007f9579b702c28960dfd83e121"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c",
+      "bytes": 4149,
+      "sha256": "5ec9f22de1b3ee82e8437b3ba52725f8f031cf9075848582a0a297d4d1176450"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c",
+      "bytes": 20744,
+      "sha256": "d7db81f800f7f41c942b485e2f3fe9a27f5b21def71830297ecb44f131d91e60"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c",
+      "bytes": 48748,
+      "sha256": "5c64b13347aa70dd970f803331d3e106e915e13e2bb029d27c673cfba7cd394c"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c",
+      "bytes": 29870,
+      "sha256": "2dc02facf7141e4a25ae5653287d7100adbc3847b8a25e3e00969927c2e727d5"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c",
+      "bytes": 243960,
+      "sha256": "d48299529390beba290db650bdac9851d69b9c127d6f9f7bd3dc9f205c843aaf"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c",
+      "bytes": 78962,
+      "sha256": "5f129af0c70c87e7c960c11cc046864d5d2f3963b4a952526d306a88d3295c0d"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c",
+      "bytes": 135528,
+      "sha256": "0baff878faf8551e43ad63959f04bae08d61ee94e686e56a56cd97d02535c4d9"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/DZXTSJ.ioc",
+      "bytes": 10285,
+      "sha256": "e8bae20f0963573701fbbf9b17b34858792c34a580dbddef61e5db9af7ae5156"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/MDK-ARM/DZXTSJ.uvprojx",
+      "bytes": 35628,
+      "sha256": "ace2c2d6e0f178cbc3f1f71b58a4669a0aa2248e19b65fe0861809f7019d54bc"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/MDK-ARM/RTE/_DZXTSJ/RTE_Components.h",
+      "bytes": 344,
+      "sha256": "6b5a63b114f671870813acecd637e5be4422a324aa30672cbbb5d930b495e300"
+    },
+    {
+      "path": "01_软件逻辑/STM32工程/MDK-ARM/startup_stm32f103xe.s",
+      "bytes": 14902,
+      "sha256": "45b2e44fc787f878ed506f3a5411b25728187645a9ebe00e90c3262c45855498"
+    },
+    {
+      "path": "01_软件逻辑/固件/DZXTSJ.hex",
+      "bytes": 64888,
+      "sha256": "68098182db9607b9f29819118bd9e9b64b7b1a893edb2eb4885c1ebcdc269aa3"
+    },
+    {
+      "path": "01_软件逻辑/编译验证.py",
+      "bytes": 2704,
+      "sha256": "a8e2bbcbfca4936ff4cda746b99f15f325bd45d406ec878d44349bc19b1420a7"
+    },
+    {
+      "path": "01_软件逻辑/编译验证.vbs",
+      "bytes": 910,
+      "sha256": "776593cce0ac3ba2dfa44c00e39dd23c84f25f0d4b3a04b54a826f4f62802937"
+    },
+    {
+      "path": "01_软件逻辑/驱动与应用说明.md",
+      "bytes": 3021,
+      "sha256": "8240b469521d7a534105b63ffaccf4d6cceec6bc5e64168b24b6c9c7cca3b593"
+    },
+    {
+      "path": "02_上位机调试辅助/icon.ico",
+      "bytes": 17470,
+      "sha256": "c854afb25228d58c359b4869b41da0f3d0bfb9527331c63b518b681fe7729b9e"
+    },
+    {
+      "path": "02_上位机调试辅助/main.py",
+      "bytes": 176654,
+      "sha256": "17d35c589e4722c0d75ee5b2edd4330b899c1d734451b27b1aa0c282aba73b4d"
+    },
+    {
+      "path": "02_上位机调试辅助/requirements.txt",
+      "bytes": 255,
+      "sha256": "1c24997a8773afcc6fbdab3a1c9f3f780335e6d43fcc28bed66333e4a3d4fe0c"
+    },
+    {
+      "path": "02_上位机调试辅助/run.py",
+      "bytes": 5432,
+      "sha256": "37c53984851bd741a39914c843a3f761d96e130d1037b032bccc44548c7b31cd"
+    },
+    {
+      "path": "02_上位机调试辅助/verify.py",
+      "bytes": 5766,
+      "sha256": "ac402398cc77aeaf22156e0371133cbf7171c80199aa67b2a8cbcd2befaa6f3e"
+    },
+    {
+      "path": "02_上位机调试辅助/使用说明.md",
+      "bytes": 3637,
+      "sha256": "f81881258b3c3206558d3eafb3af71f79ca9cdb597bd021ebd49a4f57fc3976d"
+    },
+    {
+      "path": "02_上位机调试辅助/启动上位机.cmd",
+      "bytes": 243,
+      "sha256": "7a7cfb71e909e7d57ab4d5b2470febac0fa45f53a59c2b72b596ea0a190c74d3"
+    },
+    {
+      "path": "02_上位机调试辅助/启动上位机.vbs",
+      "bytes": 908,
+      "sha256": "e7c4a10a09e4cfe8ce51cb3552bef9283b1c8bff06132446d58380111c6c6c28"
+    },
+    {
+      "path": "02_上位机调试辅助/安装运行环境.cmd",
+      "bytes": 556,
+      "sha256": "7fb760be8d44e9efc601dc1b0af0ab59713dc5ac52f80b4c4330e0f1dbc25673"
+    },
+    {
+      "path": "02_上位机调试辅助/电脑端验证.cmd",
+      "bytes": 230,
+      "sha256": "99695cab67aab19f3e16151ed18ac39d8c1e78c62ee71c7daafb5f65f95b621a"
+    },
+    {
+      "path": "02_上位机调试辅助/离线样例.txt",
+      "bytes": 244,
+      "sha256": "3208de963bec7f786785afe57c6761f17b4afce334425d6c60387ee8c1fba891"
+    },
+    {
+      "path": "02_上位机调试辅助/离线演示.cmd",
+      "bytes": 250,
+      "sha256": "78daa26df380b07a928dbb9a865246b7550769cb4c4c09b71f299ff0c4904d8c"
+    },
+    {
+      "path": "02_上位机调试辅助/离线演示.vbs",
+      "bytes": 922,
+      "sha256": "d6cbd96853dc7396529003cd83c8fa90c6aca49ba30b607da7808d7bfea3903f"
+    },
+    {
+      "path": "03_硬件电路设计/PCB_PCB2_2025-12-27.pdf",
+      "bytes": 2336893,
+      "sha256": "12878c323ba27b13c40808bc7586ec9bbc2f3fa256f6a31464b9e4a24b73bc83"
+    },
+    {
+      "path": "03_硬件电路设计/PCB_PCB3_2025-12-27.pdf",
+      "bytes": 2014742,
+      "sha256": "47a0568242c12476e22cd3869ed3eae39b13480e8969681b2462ee473f9f6581"
+    },
+    {
+      "path": "03_硬件电路设计/SCH_底盘_2025-12-27.pdf",
+      "bytes": 273167,
+      "sha256": "3b26c56b2fec257a07e6c9dc1c97a27cec502fdb771e4fad16e76b2654876b95"
+    },
+    {
+      "path": "03_硬件电路设计/电脑鼠_数字量最终方案.eprj",
+      "bytes": 9166848,
+      "sha256": "327c8fd5b3f4e70cacfab280c5a8c659e235c004f9c93e8d69aef11acb435eb1"
+    },
+    {
+      "path": "03_硬件电路设计/硬件版本与接口.md",
+      "bytes": 3132,
+      "sha256": "399a4eaac4a092e1c5a4cf5d24805e165114aa69e29ebee3b927df46b921ca32"
+    },
+    {
+      "path": "交付说明与验证/下位机编译记录.txt",
+      "bytes": 1132,
+      "sha256": "28024421e61cc93ce6bdde15e7dd23b35d2567f3ded6e859bb7ea20ae1e2bf7f"
+    },
+    {
+      "path": "交付说明与验证/交付文件表单.md",
+      "bytes": 14801,
+      "sha256": "685356113c3d2de041855d8dc3434a51c7ba30a9c35278a4839114f9588675eb"
+    },
+    {
+      "path": "交付说明与验证/固件与源码对应.json",
+      "bytes": 11546,
+      "sha256": "968591c4afb2e82eb14f0bcbdc20cc557ff3781295de3f8fa4a039f3d48439a7"
+    },
+    {
+      "path": "交付说明与验证/学长期末报告_原始参考.pdf",
+      "bytes": 3491005,
+      "sha256": "f6bfa8ef242d03b1062c2c64fdae93208729467d88d71014dad73d271ad5007a"
+    },
+    {
+      "path": "交付说明与验证/学长期末版本说明_原文.txt",
+      "bytes": 491,
+      "sha256": "d0c905a5bc7d5aaca9db2e757c072b8671eba09865492ca80de92a4ee71379ca"
+    },
+    {
+      "path": "交付说明与验证/文件与工程校验.json",
+      "bytes": 805,
+      "sha256": "71bef49390a6b146a0d6d9973b3497b3616190103f923c3a4592643ae4276003"
+    },
+    {
+      "path": "交付说明与验证/最终一致性检查.json",
+      "bytes": 177,
+      "sha256": "9a1d4b133f017696cb2fea65b03060646e14954c5ce6818c6f31bcf2ec039222"
+    },
+    {
+      "path": "交付说明与验证/版本来源.json",
+      "bytes": 55806,
+      "sha256": "6d59417bc0a7e04dcafa57fa3e64e41c0464505df6d3277755ff628cdb67a421"
+    },
+    {
+      "path": "交付说明与验证/版本选择和修改清单.md",
+      "bytes": 4702,
+      "sha256": "376cab6f01b2d890d949d31f39d652b28a8ff8f648bfb2f4cc346fcacca9f6a0"
+    },
+    {
+      "path": "交付说明与验证/电脑端验证/主界面_离线样例.png",
+      "bytes": 79401,
+      "sha256": "7dd2e802272a0c0c77ddca115f897c32f8f2c39390a3d9f876d314b57b9f6da6"
+    },
+    {
+      "path": "交付说明与验证/电脑端验证/回放界面_离线样例.png",
+      "bytes": 53966,
+      "sha256": "669ecf10a3e42da06e6bee932a595467babe9cca206473457854572072b38d92"
+    },
+    {
+      "path": "交付说明与验证/电脑端验证/离线样例日志.txt",
+      "bytes": 716,
+      "sha256": "fcd53d67f4dbb17dcd355151cdb5a06a3c0c576e89c44dc9f8b8546cbf534759"
+    },
+    {
+      "path": "交付说明与验证/电脑端验证/离线样例轨迹.csv",
+      "bytes": 592,
+      "sha256": "0504708bc964cc25be9c34cd79a723545302128e989e19029cc887caaec2ca14"
+    },
+    {
+      "path": "交付说明与验证/电脑端验证/离线样例轨迹.png",
+      "bytes": 24393,
+      "sha256": "7bef85507d9d84903c33333f3bd9b7280aceacc8f81e6ef56dceaa3fc421b928"
+    },
+    {
+      "path": "交付说明与验证/电脑端验证/验证结果.json",
+      "bytes": 2456,
+      "sha256": "08c942dcdade6705ed8ba6273df966d85f2f5fd09935e5e3d53b3a78978f92a4"
+    },
+    {
+      "path": "交付说明与验证/验证摘要.md",
+      "bytes": 1479,
+      "sha256": "0cb95c5f165b3002ba09d3b263981e5c4392b401787edafd04a39b41388ccbfe"
+    }
+  ]
+}

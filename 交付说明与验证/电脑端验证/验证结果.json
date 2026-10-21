@@ -1,0 +1,121 @@
+{
+  "status": "PASS",
+  "scope": "离线字节流与桌面界面验证；不包含真实串口驱动、烧录或实车运动",
+  "checks": [
+    {
+      "name": "主界面及六个页面创建",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "页面切换_0",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "页面切换_1",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "页面切换_2",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "页面切换_3",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "页面切换_4",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "页面切换_5",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "未实现的小车指令按钮禁用",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "不完整串口帧等待后续数据",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "半包与两帧粘包恢复",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "六类非法帧被拒绝且位置不变",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "样例十一帧接收完整",
+      "pass": true,
+      "details": 11
+    },
+    {
+      "name": "终点坐标显示",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "到达中心并保留原始路径",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "墙壁与传感器状态更新",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "预估路径生成",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "原始回放包含终点",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "重复终点帧不重复结算",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "三维视图切换",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "二维视图恢复",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "CSV导出包含终点",
+      "pass": true,
+      "details": 33
+    },
+    {
+      "name": "PNG导出",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "串口日志导出",
+      "pass": true,
+      "details": null
+    }
+  ]
+}

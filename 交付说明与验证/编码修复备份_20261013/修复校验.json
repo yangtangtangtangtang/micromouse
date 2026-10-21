@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-13",
+  "source": "E:\\汤旸大学专用\\电子鼠\\电脑鼠_最终交付_20260915\\01_软件逻辑\\STM32工程\\Core\\Src\\main.c",
+  "backup": "E:\\汤旸大学专用\\电子鼠\\电脑鼠_最终交付_20260915\\交付说明与验证\\编码修复备份_20261013\\main.c.before_encoding_fix.bak",
+  "encoding": "UTF-8 without BOM",
+  "comment_lines_rewritten": 76,
+  "line_count_unchanged": true,
+  "source_without_comments_identical": true,
+  "old_sha256": "3092409c09d261bdcd15ee05cf553f3b5574553d1f4575901f114ca9770124b5",
+  "new_sha256": "04885057f73359a994324501f914647b676a2d699c84d21f0d4add854bb38e30",
+  "reconstruction_note": "Old source already contained irreversible replacement characters. Damaged comments were rewritten according to the actual code, not claimed as exact recovery of original wording.",
+  "build_result": "0 errors, 0 warnings",
+  "firmware_sha256_before": "68098182db9607b9f29819118bd9e9b64b7b1a893edb2eb4885c1ebcdc269aa3",
+  "firmware_sha256_after": "68098182db9607b9f29819118bd9e9b64b7b1a893edb2eb4885c1ebcdc269aa3",
+  "firmware_identical": true
+}

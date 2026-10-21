@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "native_launch_exit_code": 0,
+  "original_files_unchanged": 211,
+  "firmware_source_hashes_matched": 93,
+  "hex_matches_source_build_proof": true
+}
